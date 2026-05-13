@@ -1,0 +1,12 @@
+{
+  "name": "closet-me-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page para agendamento da loja Closet Me",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Esta é uma página estática. Nenhuma ação necessária.'",
+    "build": "echo 'Build não é necessário para esta página estática, apenas suba os arquivos.'"
+  },
+  "author": "",
+  "license": "ISC"
+}
